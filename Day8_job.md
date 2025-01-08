@@ -14,7 +14,7 @@ And so If you really wanna be successful in your life , you must start thinking 
 Procastination is the biggest enemy of a thinker , It kills your thinking , by just giving you all thought out content all day. So you must also stop your procastination thing, so that you can think.
 And if you build a business around that , then you even might not have to get a job , you might start earning on your own income and even grow bigger.
 
-All the youtube videos that I watched today are -
+All the youtube videos that I watched today are.
     - Escaping middle class (20 min)
     - One plus (5 min)
     - The Dutch and the Norwagian economy (30 min)
