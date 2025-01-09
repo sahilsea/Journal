@@ -6,3 +6,5 @@ College went as usual, was more fun then I expected , I thought I would use my l
 I watched the explanation video of Midsommar movie, and man It was really an eye-opening video. It teaches how a cult works , and how religion is just a cult with just a lot of time added to it, what kind of people it really manipulate and how it does all this. Now I want to watch more videos like this .
 
 Today I have a lot to motivation to learn and think about things , yesterday It was like opposit , I had no motivation at all . So Today I did lil bit of my assignment and Started learning the Langchain Framework. Thinking of building really cool applications with it.
+
+I really didn't watch any yt vids today so.
