@@ -12,3 +12,9 @@ a chatbot using genai API, and Linkedin Profile summarizer using the ProxyAPI, R
 I am really in hurry to get a Job or even a internship , so I reached out to my connections (relatives) and they
 said not to worry . He asked which field , I said Web Tech, so he said for that you must know tech like node.js and
 react. I have learnt Python and Flask and many more libraries inside it but not so much of the javascript.
+
+Learned about professional networking , learned that it is as important as learning to program. So now I staying
+active on linkedin by posting , commenting and reaching out to different professionals.
+Posting about my current activities , struggle , steps, thing i am learning and more to grow and connect to my
+linkedin connections.
+Also watched a video on how to use linkedin to get hired , it was worth every second of the hour.
